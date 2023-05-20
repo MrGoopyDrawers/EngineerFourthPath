@@ -5,6 +5,7 @@
 
 <h1 align="center">EngineerFourthPath</h1>
 
-This adds the engineer 4th path. (P.S YOU NEED PATH PLUS)
+This adds the engineer 4th path.
+You are now able to properly download my mod files. I fixed the repositories.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
