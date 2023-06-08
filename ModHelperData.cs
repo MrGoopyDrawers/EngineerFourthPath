@@ -3,7 +3,7 @@ namespace EngineerFourthPath;
 public static class ModHelperData
 {
     public const string WorksOnVersion = "36.1";
-    public const string Version = "1.0.0";
+    public const string Version = "1.0.1";
     public const string Name = "EngineerFourthPath";
 
     public const string Description = "Adds the fourth path to the engineer";
